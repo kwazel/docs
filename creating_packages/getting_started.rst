@@ -6,7 +6,7 @@ Getting Started
 To start learning about creating packages, we will create a package from the existing source code
 repository: https://github.com/memsharded/hello. You can check that project, it is a very simple
 "hello world" C++ library, using CMake as the build system to build a library and an executable. It does not contain
-no association with Conan.
+any association with Conan yet.
 
 We are using a similar GitHub repository as an example, but the same process also applies to other source
 code origins, like downloading a zip or tarball from the internet.
